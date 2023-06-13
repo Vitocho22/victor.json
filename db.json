@@ -27,26 +27,23 @@
     "usuario": "Ximena",
     "inicio": "12/11/2023",
     "fin": "22/12/2023"
-  }
   },
   {
-    "id": 4,
+    "id": 5,
     "libro": "Java desde 0",
     "usuario": "Jennifer jimenes",
     "inicio": "12/11/2023",
     "fin": "22/12/2023"
-  }
   },
   {
-    "id": 4,
+    "id": 6,
     "libro": "JQuery desde 0",
     "usuario": "Sebastian Ramos",
     "inicio": "12/11/2023",
     "fin": "22/12/2023"
-  }
   },
   {
-    "id": 4,
+    "id": 7,
     "libro": "La biblia de MySQL",
     "usuario": "Sebastian Ramos",
     "inicio": "12/11/2023",
