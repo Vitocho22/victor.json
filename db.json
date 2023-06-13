@@ -2,29 +2,29 @@
   "prestamos":[
   {
     "id": 1,
-    "libro": "El sueño eterno",
-    "usuario": "Raymond Chandler",
+    "libro": "Marvel",
+    "usuario": "Victor Sinche",
     "inicio": "2014-06-22",
     "fin": "2015-05-10"
   },
   {
     "id": 2,
-    "libro": "Huye rápido, vete lejos",
-    "usuario": "Fred Vargas",
+    "libro": "Caperuza",
+    "usuario": "Islachin Pillaca",
     "inicio": "2014-11-22",
     "fin": "2015-07-22"
   },
   {
     "id": 3,
-    "libro": "El poder del perro",
-    "usuario": "Don Winslow",
+    "libro": "Jorge el curioso",
+    "usuario": "Fernando Sanchez",
     "inicio": "2014-04-22",
     "fin": "2015-05-22"
   },
   {
     "id": 4,
-    "libro": "La suerte del enano",
-    "usuario": "César Pérez Gellida",
+    "libro": "Blanca Nieves",
+    "usuario": "Juan Flores",
     "inicio": "2019-02-20",
     "fin": "2020-05-22"
   }
