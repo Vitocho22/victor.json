@@ -27,6 +27,13 @@
     "usuario": "Juan Flores",
     "inicio": "2019-02-20",
     "fin": "2020-05-22"
-  }
-]
+  },
+  {"id":5, "libro":"Mi libro", "usuario":"Agustin", "inicio":"12/11/2023","fin":"22/12/2023"},
+  {"id":6, "libro":"HTML desde 0", "usuario":"Agustin", "inicio":"12/11/2023","fin":"22/12/2023"},
+  {"id":7, "libro":"PHP desde 0", "usuario":"Agustin", "inicio":"12/11/2023","fin":"22/12/2023"},
+  {"id":8, "libro":"C# desde 0", "usuario":"Ximena", "inicio":"12/11/2023","fin":"22/12/2023"},
+  {"id":9, "libro":"Java desde 0", "usuario":"Jennifer jimenes", "inicio":"12/11/2023","fin":"22/12/2023"},
+  {"id":10, "libro":"JQuery desde 0", "usuario":"Sebastian Ramos", "inicio":"12/11/2023","fin":"22/12/2023"},
+  {"id":11, "libro":"La biblia de MySQL", "usuario":"Sebastian Ramos", "inicio":"12/11/2023","fin":"22/12/2023"}
+  ]
 }
